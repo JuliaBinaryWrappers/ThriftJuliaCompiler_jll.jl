@@ -7,7 +7,7 @@ function __init__()
     JLLWrappers.@generate_init_header()
     JLLWrappers.@init_executable_product(
         thrift,
-        "bin/thrift.exe",
+        "bin\\thrift.exe",
     )
 
     JLLWrappers.@generate_init_footer()

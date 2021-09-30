@@ -1,115 +1,115 @@
 [[ThriftJuliaCompiler]]
 arch = "aarch64"
-git-tree-sha1 = "209c4df046b8de77e2a538c8416540bc8e155eb1"
+git-tree-sha1 = "2438c66cb01a69180b838a9c439a04cc290b7e03"
 libc = "glibc"
 os = "linux"
 
     [[ThriftJuliaCompiler.download]]
-    sha256 = "82770ff5f1071cd4d6217b9edf936e07795fb50266dbe5e8a80c5d2115d722c6"
-    url = "https://github.com/JuliaBinaryWrappers/ThriftJuliaCompiler_jll.jl/releases/download/ThriftJuliaCompiler-v0.12.0+0/ThriftJuliaCompiler.v0.12.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "361838126fad1164902febbb1360c67840cb397734560185e6c8a4ff935d9536"
+    url = "https://github.com/JuliaBinaryWrappers/ThriftJuliaCompiler_jll.jl/releases/download/ThriftJuliaCompiler-v0.12.1+0/ThriftJuliaCompiler.v0.12.1.aarch64-linux-gnu.tar.gz"
 [[ThriftJuliaCompiler]]
 arch = "aarch64"
-git-tree-sha1 = "6532927c209b1589ca26ff05a0485c21711541d4"
+git-tree-sha1 = "1a3c04b51b1259688cb48ae72eec3f1d9016a219"
 libc = "musl"
 os = "linux"
 
     [[ThriftJuliaCompiler.download]]
-    sha256 = "2467b08f52f876f1dae8583b7db36adad5ae8333f540daba5b3cf739be477c4b"
-    url = "https://github.com/JuliaBinaryWrappers/ThriftJuliaCompiler_jll.jl/releases/download/ThriftJuliaCompiler-v0.12.0+0/ThriftJuliaCompiler.v0.12.0.aarch64-linux-musl.tar.gz"
+    sha256 = "da3ce638f2c906415f77d21d6d73eac81391b3d56925f5b67be1c9dce25a3bf5"
+    url = "https://github.com/JuliaBinaryWrappers/ThriftJuliaCompiler_jll.jl/releases/download/ThriftJuliaCompiler-v0.12.1+0/ThriftJuliaCompiler.v0.12.1.aarch64-linux-musl.tar.gz"
 [[ThriftJuliaCompiler]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "37d602d53da9bf259248b8c24b617d80a0bc0e7e"
+git-tree-sha1 = "7353083fa5eaed84b53d924c179eaa258e8eb138"
 libc = "glibc"
 os = "linux"
 
     [[ThriftJuliaCompiler.download]]
-    sha256 = "458eb05662a38f95c5375ad96aab65d20b7053d6e3c897dcc192ed87fb934047"
-    url = "https://github.com/JuliaBinaryWrappers/ThriftJuliaCompiler_jll.jl/releases/download/ThriftJuliaCompiler-v0.12.0+0/ThriftJuliaCompiler.v0.12.0.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "4959c63028f4bcd01ec1dd6b073046074edab974aa98f4a0aaf7822e7e62038a"
+    url = "https://github.com/JuliaBinaryWrappers/ThriftJuliaCompiler_jll.jl/releases/download/ThriftJuliaCompiler-v0.12.1+0/ThriftJuliaCompiler.v0.12.1.armv7l-linux-gnueabihf.tar.gz"
 [[ThriftJuliaCompiler]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "bb0410e53ff4bb66b59894b0443e6f897dc895b1"
+git-tree-sha1 = "d9f36ba1efbc058b143f5e0c922b69a0308cb151"
 libc = "musl"
 os = "linux"
 
     [[ThriftJuliaCompiler.download]]
-    sha256 = "1c69eead9a11bacfd4ed0ccd118158cc938506bb36d710735e2fcce6345f4aa0"
-    url = "https://github.com/JuliaBinaryWrappers/ThriftJuliaCompiler_jll.jl/releases/download/ThriftJuliaCompiler-v0.12.0+0/ThriftJuliaCompiler.v0.12.0.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "0eee301daa236d349ddafdb6980b1e8923a0d10a53234a357b77509c14ec8400"
+    url = "https://github.com/JuliaBinaryWrappers/ThriftJuliaCompiler_jll.jl/releases/download/ThriftJuliaCompiler-v0.12.1+0/ThriftJuliaCompiler.v0.12.1.armv7l-linux-musleabihf.tar.gz"
 [[ThriftJuliaCompiler]]
 arch = "i686"
-git-tree-sha1 = "5ba5fd76768821b3fcd6fc2f39e7912b3c300708"
+git-tree-sha1 = "b9b43908d754428261af87a2909e43ee649025ca"
 libc = "glibc"
 os = "linux"
 
     [[ThriftJuliaCompiler.download]]
-    sha256 = "947c01a60e064f9ead624b7d7e4611b1c1fe4fe756ca700da21fd9ead2468456"
-    url = "https://github.com/JuliaBinaryWrappers/ThriftJuliaCompiler_jll.jl/releases/download/ThriftJuliaCompiler-v0.12.0+0/ThriftJuliaCompiler.v0.12.0.i686-linux-gnu.tar.gz"
+    sha256 = "d8f20cda9f6b415d1125545d18b78a72740c024fe6f5e0f1d10fb86785e28c42"
+    url = "https://github.com/JuliaBinaryWrappers/ThriftJuliaCompiler_jll.jl/releases/download/ThriftJuliaCompiler-v0.12.1+0/ThriftJuliaCompiler.v0.12.1.i686-linux-gnu.tar.gz"
 [[ThriftJuliaCompiler]]
 arch = "i686"
-git-tree-sha1 = "83c8faa15d26eca676c6ec80d9d3482c793a6f6b"
+git-tree-sha1 = "72401db3e79a904d104c4afbc45f6a9d2e46bb62"
 libc = "musl"
 os = "linux"
 
     [[ThriftJuliaCompiler.download]]
-    sha256 = "6f8bf6a70fe2376a4599ca723b9897286b25bf482670bff48b34b755c6232270"
-    url = "https://github.com/JuliaBinaryWrappers/ThriftJuliaCompiler_jll.jl/releases/download/ThriftJuliaCompiler-v0.12.0+0/ThriftJuliaCompiler.v0.12.0.i686-linux-musl.tar.gz"
+    sha256 = "e2b41a4ec1fc788cc543c5f51b4e494cc26a4cff74966b6d16017030d83ba7c7"
+    url = "https://github.com/JuliaBinaryWrappers/ThriftJuliaCompiler_jll.jl/releases/download/ThriftJuliaCompiler-v0.12.1+0/ThriftJuliaCompiler.v0.12.1.i686-linux-musl.tar.gz"
 [[ThriftJuliaCompiler]]
 arch = "i686"
-git-tree-sha1 = "80693867e561a0a9ffe97cdda9ab38653aa4b4a7"
+git-tree-sha1 = "bab7b29f8f8de29b7ec3d68776d0396843c7186d"
 os = "windows"
 
     [[ThriftJuliaCompiler.download]]
-    sha256 = "8c3be693a9f9ce6a5438b65eccc9e8aa51ddcb0f158eece23f65e8f5e748d91f"
-    url = "https://github.com/JuliaBinaryWrappers/ThriftJuliaCompiler_jll.jl/releases/download/ThriftJuliaCompiler-v0.12.0+0/ThriftJuliaCompiler.v0.12.0.i686-w64-mingw32.tar.gz"
+    sha256 = "016ddd4bfc8cc5eddc3bda52a9789c2fbe7cbcd7d4c795305a1ecad543930dd0"
+    url = "https://github.com/JuliaBinaryWrappers/ThriftJuliaCompiler_jll.jl/releases/download/ThriftJuliaCompiler-v0.12.1+0/ThriftJuliaCompiler.v0.12.1.i686-w64-mingw32.tar.gz"
 [[ThriftJuliaCompiler]]
 arch = "powerpc64le"
-git-tree-sha1 = "bf1cba871efbb6454e7506fcd2d17b98ddd59a35"
+git-tree-sha1 = "8a707d235a0b70907561bfc5f7312982c4cb2fe7"
 libc = "glibc"
 os = "linux"
 
     [[ThriftJuliaCompiler.download]]
-    sha256 = "ab14d2a189f94fdec5872adbf1ceab6cdf9cfa2d737814e6041cae853ed33b9f"
-    url = "https://github.com/JuliaBinaryWrappers/ThriftJuliaCompiler_jll.jl/releases/download/ThriftJuliaCompiler-v0.12.0+0/ThriftJuliaCompiler.v0.12.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "7297b9fa46bb51a7e69c8893fd41e949ff4983131bff568d7ea6fc981b5112a5"
+    url = "https://github.com/JuliaBinaryWrappers/ThriftJuliaCompiler_jll.jl/releases/download/ThriftJuliaCompiler-v0.12.1+0/ThriftJuliaCompiler.v0.12.1.powerpc64le-linux-gnu.tar.gz"
 [[ThriftJuliaCompiler]]
 arch = "x86_64"
-git-tree-sha1 = "22225ffe5699cf16359794519a68854dd4bfa732"
+git-tree-sha1 = "47234daa1eaf354635a17f73aec3f275549d82eb"
 os = "macos"
 
     [[ThriftJuliaCompiler.download]]
-    sha256 = "b07ebf08d9cc46dcfef1730736cb30edda148c78f0bc516ae9bcf5607903671f"
-    url = "https://github.com/JuliaBinaryWrappers/ThriftJuliaCompiler_jll.jl/releases/download/ThriftJuliaCompiler-v0.12.0+0/ThriftJuliaCompiler.v0.12.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "f8bb76144457bd8cf6f898523c9f3563d1f57572e1aca95b0f706e6c8e8df93c"
+    url = "https://github.com/JuliaBinaryWrappers/ThriftJuliaCompiler_jll.jl/releases/download/ThriftJuliaCompiler-v0.12.1+0/ThriftJuliaCompiler.v0.12.1.x86_64-apple-darwin.tar.gz"
 [[ThriftJuliaCompiler]]
 arch = "x86_64"
-git-tree-sha1 = "baa96bb3f705f3e0d47c37390ee168b9eb62600f"
+git-tree-sha1 = "52712614d3230cc52ae8b618269784847b8963be"
 libc = "glibc"
 os = "linux"
 
     [[ThriftJuliaCompiler.download]]
-    sha256 = "27eaf5b93c14308231df4263ddf169b1345a2af6be474ebe8f619c0c10796840"
-    url = "https://github.com/JuliaBinaryWrappers/ThriftJuliaCompiler_jll.jl/releases/download/ThriftJuliaCompiler-v0.12.0+0/ThriftJuliaCompiler.v0.12.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "dcc50ce2731ab87d8aec2307bd2fa243b4de804245b73da8f7bbc3aa13d21b2c"
+    url = "https://github.com/JuliaBinaryWrappers/ThriftJuliaCompiler_jll.jl/releases/download/ThriftJuliaCompiler-v0.12.1+0/ThriftJuliaCompiler.v0.12.1.x86_64-linux-gnu.tar.gz"
 [[ThriftJuliaCompiler]]
 arch = "x86_64"
-git-tree-sha1 = "556139d6b3820d6aa87b227e7226b9ea1e4f9b0b"
+git-tree-sha1 = "a4e1835d955e363a641296ef3e4642c7306f6d17"
 libc = "musl"
 os = "linux"
 
     [[ThriftJuliaCompiler.download]]
-    sha256 = "0a1a55687d1905dd3e0e27a3448b3aade97239d07673cfa9326a69b7cc756453"
-    url = "https://github.com/JuliaBinaryWrappers/ThriftJuliaCompiler_jll.jl/releases/download/ThriftJuliaCompiler-v0.12.0+0/ThriftJuliaCompiler.v0.12.0.x86_64-linux-musl.tar.gz"
+    sha256 = "5a0190d4741e8a5e9e9ff7c024162936e3091183948f63d6d3e7a09928d74fd6"
+    url = "https://github.com/JuliaBinaryWrappers/ThriftJuliaCompiler_jll.jl/releases/download/ThriftJuliaCompiler-v0.12.1+0/ThriftJuliaCompiler.v0.12.1.x86_64-linux-musl.tar.gz"
 [[ThriftJuliaCompiler]]
 arch = "x86_64"
-git-tree-sha1 = "21b1cfebddc3dec6a1fccea193083ccbfb0bafa8"
+git-tree-sha1 = "2724ded982dab81011f6d84e94f61827a6cb2df9"
 os = "freebsd"
 
     [[ThriftJuliaCompiler.download]]
-    sha256 = "b98eeeba6daa2f5e15c1ed1d2c66cac37c06339ce48afe78e0d54c9d86b3150f"
-    url = "https://github.com/JuliaBinaryWrappers/ThriftJuliaCompiler_jll.jl/releases/download/ThriftJuliaCompiler-v0.12.0+0/ThriftJuliaCompiler.v0.12.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "b08b52793602f3e0236d7f6434ce2cd3aa356c0427187876d7c4e58cd388f635"
+    url = "https://github.com/JuliaBinaryWrappers/ThriftJuliaCompiler_jll.jl/releases/download/ThriftJuliaCompiler-v0.12.1+0/ThriftJuliaCompiler.v0.12.1.x86_64-unknown-freebsd.tar.gz"
 [[ThriftJuliaCompiler]]
 arch = "x86_64"
-git-tree-sha1 = "2ec34e0ce59befe5f7a8f1a7afb3ead2a12236d7"
+git-tree-sha1 = "918043d04b416a746d10df25bc5918676a0f4b96"
 os = "windows"
 
     [[ThriftJuliaCompiler.download]]
-    sha256 = "c978be7befa6a2e727211653b5595884b1d5bb3b46d4eb2f090f715227a82a90"
-    url = "https://github.com/JuliaBinaryWrappers/ThriftJuliaCompiler_jll.jl/releases/download/ThriftJuliaCompiler-v0.12.0+0/ThriftJuliaCompiler.v0.12.0.x86_64-w64-mingw32.tar.gz"
+    sha256 = "299dd2cae04c17d9afaa1739a25d7e4e09b6aff46c20a3651b42f146c54cdb9f"
+    url = "https://github.com/JuliaBinaryWrappers/ThriftJuliaCompiler_jll.jl/releases/download/ThriftJuliaCompiler-v0.12.1+0/ThriftJuliaCompiler.v0.12.1.x86_64-w64-mingw32.tar.gz"
